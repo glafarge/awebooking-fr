@@ -1,0 +1,1299 @@
+# Copyright (C) 2017 awethemes/skeleton
+# This file is distributed under the same license as the awethemes/skeleton package.
+msgid ""
+msgstr ""
+"Project-Id-Version: awethemes/skeleton\n"
+"POT-Creation-Date: 2017-07-10 12:49+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Guillaume Lafarge <contact@prys.me>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../plugins/awebooking/vendor/awethemes/skeleton\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: example.php:15 example.php:137
+msgid "Author"
+msgstr "Auteur"
+
+#: example.php:15 example.php:137
+msgid "Authors"
+msgstr "Auteurs"
+
+#: example.php:33
+#, php-format
+msgid "%s Avatar"
+msgstr "%s Avatar"
+
+#: example.php:85 example.php:97
+msgid "Text Field"
+msgstr "Champ de texte"
+
+#: example.php:264 libs/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: example.php:281 example.php:407 example.php:718
+#: libs/cmb2/example-functions.php:392
+msgid "Test Image"
+msgstr "Test Image"
+
+#: example.php:282 example.php:313 example.php:322 example.php:330
+#: example.php:337 example.php:344 example.php:351 example.php:408
+#: example.php:419 example.php:433 example.php:446 example.php:458
+#: example.php:466 example.php:488 example.php:497 example.php:505
+#: example.php:520 example.php:528 example.php:536 example.php:553
+#: example.php:562 example.php:576 example.php:585 example.php:593
+#: example.php:608 example.php:627 example.php:642 example.php:654
+#: example.php:664 example.php:672 example.php:681 example.php:689
+#: example.php:697 example.php:711 example.php:782 example.php:874
+#: example.php:882 example.php:889 example.php:896 example.php:903
+#: example.php:910 example.php:917 example.php:944 example.php:952
+#: example.php:959 libs/cmb2/example-functions.php:131
+#: libs/cmb2/example-functions.php:144 libs/cmb2/example-functions.php:157
+#: libs/cmb2/example-functions.php:164 libs/cmb2/example-functions.php:177
+#: libs/cmb2/example-functions.php:185 libs/cmb2/example-functions.php:194
+#: libs/cmb2/example-functions.php:202 libs/cmb2/example-functions.php:217
+#: libs/cmb2/example-functions.php:225 libs/cmb2/example-functions.php:233
+#: libs/cmb2/example-functions.php:250 libs/cmb2/example-functions.php:259
+#: libs/cmb2/example-functions.php:272 libs/cmb2/example-functions.php:279
+#: libs/cmb2/example-functions.php:286 libs/cmb2/example-functions.php:300
+#: libs/cmb2/example-functions.php:313 libs/cmb2/example-functions.php:326
+#: libs/cmb2/example-functions.php:338 libs/cmb2/example-functions.php:347
+#: libs/cmb2/example-functions.php:355 libs/cmb2/example-functions.php:364
+#: libs/cmb2/example-functions.php:371 libs/cmb2/example-functions.php:385
+#: libs/cmb2/example-functions.php:453 libs/cmb2/example-functions.php:544
+#: libs/cmb2/example-functions.php:552 libs/cmb2/example-functions.php:559
+#: libs/cmb2/example-functions.php:566 libs/cmb2/example-functions.php:573
+#: libs/cmb2/example-functions.php:580 libs/cmb2/example-functions.php:587
+#: libs/cmb2/example-functions.php:614 libs/cmb2/example-functions.php:622
+#: libs/cmb2/example-functions.php:629 libs/cmb2/example-functions.php:666
+msgid "field description (optional)"
+msgstr "Champ 5: Description (facultatif)"
+
+#: example.php:312 example.php:321 example.php:329 example.php:336
+#: example.php:343 example.php:350 example.php:418 example.php:781
+#: libs/cmb2/example-functions.php:130 libs/cmb2/example-functions.php:452
+msgid "Test Text"
+msgstr "Texte de test"
+
+#: example.php:376 example.php:381 example.php:827
+#: libs/cmb2/example-functions.php:497
+msgid "Entry Title"
+msgstr "Titre d'entrée"
+
+#: example.php:377 example.php:389 example.php:835
+#: libs/cmb2/example-functions.php:505
+msgid "Write a short description for this entry"
+msgstr "Ecrivez une brève description pour cette entrée"
+
+#: example.php:388 example.php:834 libs/cmb2/example-functions.php:504
+msgid "Description"
+msgstr "La description"
+
+#: example.php:395 example.php:841 libs/cmb2/example-functions.php:511
+msgid "Entry Image"
+msgstr "Image d'entrée"
+
+#: example.php:401 example.php:847 libs/cmb2/example-functions.php:517
+msgid "Image Caption"
+msgstr "Légende de l'image"
+
+#: example.php:432 libs/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr "Texte de test Petit"
+
+#: example.php:445
+msgid "Test Radio Image"
+msgstr "Test Radio Image"
+
+#: example.php:457 libs/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr "Texte de test Moyen"
+
+#: example.php:465 libs/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr "Champ désactivé en lecture seule"
+
+#: example.php:469 libs/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr "Hey there, je suis un domaine en lecture seule"
+
+#: example.php:487 libs/cmb2/example-functions.php:184
+msgid "Website URL"
+msgstr "URL de site web"
+
+#: example.php:496 libs/cmb2/example-functions.php:193
+msgid "Test Text Email"
+msgstr "Texte de test Email"
+
+#: example.php:504 libs/cmb2/example-functions.php:201
+msgid "Test Time"
+msgstr "Temps d'essai"
+
+#: example.php:512 example.php:513 libs/cmb2/example-functions.php:209
+#: libs/cmb2/example-functions.php:210
+msgid "Time zone"
+msgstr "Fuseau planifications"
+
+#: example.php:519 libs/cmb2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr "Sélecteur de date de test"
+
+#: example.php:527 libs/cmb2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Sélecteur de date de test (horodatage UNIX)"
+
+#: example.php:535 libs/cmb2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Combinaison de date / horaire de test (horodatage UNIX)"
+
+#: example.php:552 libs/cmb2/example-functions.php:249
+msgid "Test Money"
+msgstr "Test de l'argent"
+
+#: example.php:561 libs/cmb2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr "Sélecteur de couleur d'essai"
+
+#: example.php:575 libs/cmb2/example-functions.php:271
+msgid "Test Text Area"
+msgstr "Zone de texte de test"
+
+#: example.php:584 libs/cmb2/example-functions.php:278
+msgid "Test Text Area Small"
+msgstr "Zone de texte de test Petit"
+
+#: example.php:592 libs/cmb2/example-functions.php:285
+msgid "Test Text Area for Code"
+msgstr "Zone de texte de test pour le code"
+
+#: example.php:600 libs/cmb2/example-functions.php:292
+msgid "Test Title Weeeee"
+msgstr "Titre d'essai Weeeee"
+
+#: example.php:601 libs/cmb2/example-functions.php:293
+msgid "This is a title description"
+msgstr "Ceci est une description du titre"
+
+#: example.php:607 libs/cmb2/example-functions.php:299
+msgid "Test Select"
+msgstr "Sélection du test"
+
+#: example.php:617 example.php:632 example.php:646
+#: libs/cmb2/example-functions.php:305 libs/cmb2/example-functions.php:318
+#: libs/cmb2/example-functions.php:330
+msgid "Option One"
+msgstr "Option 1"
+
+#: example.php:618 example.php:633 example.php:647
+#: libs/cmb2/example-functions.php:306 libs/cmb2/example-functions.php:319
+#: libs/cmb2/example-functions.php:331
+msgid "Option Two"
+msgstr "Option deux"
+
+#: example.php:619 example.php:634 example.php:648
+#: libs/cmb2/example-functions.php:307 libs/cmb2/example-functions.php:320
+#: libs/cmb2/example-functions.php:332
+msgid "Option Three"
+msgstr "Option trois"
+
+#: example.php:626 libs/cmb2/example-functions.php:312
+msgid "Test Radio inline"
+msgstr "Test radio en ligne"
+
+#: example.php:641 libs/cmb2/example-functions.php:325
+msgid "Test Radio"
+msgstr "Test radio"
+
+#: example.php:653 libs/cmb2/example-functions.php:337
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonomy Radio"
+
+#: example.php:663 libs/cmb2/example-functions.php:346
+msgid "Test Taxonomy Select"
+msgstr "Test Taxonomy Select"
+
+#: example.php:671 libs/cmb2/example-functions.php:354
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonomy Multi Checkbox"
+
+#: example.php:680 libs/cmb2/example-functions.php:363
+msgid "Test Checkbox"
+msgstr "Case à cocher Test"
+
+#: example.php:688
+msgid "Test Toggle"
+msgstr "Test Toggle"
+
+#: example.php:696 libs/cmb2/example-functions.php:370
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Checkbox"
+
+#: example.php:702 libs/cmb2/example-functions.php:376
+msgid "Check One"
+msgstr "Cochez une"
+
+#: example.php:703 libs/cmb2/example-functions.php:377
+msgid "Check Two"
+msgstr "Vérifiez deux"
+
+#: example.php:704 libs/cmb2/example-functions.php:378
+msgid "Check Three"
+msgstr "Vérifiez trois"
+
+#: example.php:710 libs/cmb2/example-functions.php:384
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: example.php:719 libs/cmb2/example-functions.php:393
+msgid "Upload an image or enter a URL."
+msgstr "Téléchargez une image ou entrez une URL."
+
+#: example.php:725 libs/cmb2/example-functions.php:399
+msgid "Multiple Files"
+msgstr "Plusieurs fichiers"
+
+#: example.php:726 libs/cmb2/example-functions.php:400
+msgid "Upload or add multiple images/attachments."
+msgstr "Téléchargez ou ajoutez plusieurs images / pièces jointes."
+
+#: example.php:734 libs/cmb2/example-functions.php:407
+msgid "oEmbed"
+msgstr "oIntégration"
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: example.php:737 libs/cmb2/example-functions.php:410
+#, php-format
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr "Entrez une URL de youtube, twitter ou instagram. Prend en charge les services énumérés à %s ."
+
+#: example.php:772 libs/cmb2/example-functions.php:443
+msgid "About Page Metabox"
+msgstr "À propos de Metabox"
+
+#: example.php:801 example.php:809 libs/cmb2/example-functions.php:472
+msgid "Repeating Field Group"
+msgstr "Groupe de terrain répétitif"
+
+#: example.php:810 libs/cmb2/example-functions.php:480
+msgid "Generates reusable form entries"
+msgstr "Génère des entrées de formulaire réutilisables"
+
+#: example.php:812 libs/cmb2/example-functions.php:482
+msgid "Entry {#}"
+msgstr "//ENT"
+
+#: example.php:813 libs/cmb2/example-functions.php:483
+msgid "Add Another Entry"
+msgstr "Ajouter une autre entrée"
+
+#: example.php:814 libs/cmb2/example-functions.php:484
+msgid "Remove Entry"
+msgstr "Supprimer l'entrée"
+
+#: example.php:866 libs/cmb2/example-functions.php:536
+msgid "User Profile Metabox"
+msgstr "Profil utilisateur Metabox"
+
+#: example.php:873 example.php:943 libs/cmb2/example-functions.php:543
+#: libs/cmb2/example-functions.php:613
+msgid "Extra Info"
+msgstr "Infos supplémentaires"
+
+#: example.php:881 libs/cmb2/example-functions.php:551
+msgid "Avatar"
+msgstr "Avatar"
+
+#: example.php:888 libs/cmb2/example-functions.php:558
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: example.php:895 libs/cmb2/example-functions.php:565
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: example.php:902 libs/cmb2/example-functions.php:572
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: example.php:909 libs/cmb2/example-functions.php:579
+msgid "Linkedin URL"
+msgstr "Lien Linkedin"
+
+#: example.php:916 libs/cmb2/example-functions.php:586
+msgid "User Field"
+msgstr "Champ de l'utilisateur"
+
+#: example.php:936 libs/cmb2/example-functions.php:606
+msgid "Category Metabox"
+msgstr "Catégorie Metabox"
+
+#: example.php:951 libs/cmb2/example-functions.php:621
+msgid "Term Image"
+msgstr "Image à terme"
+
+#: example.php:958 libs/cmb2/example-functions.php:628
+msgid "Arbitrary Term Field"
+msgstr "Territoire arbitraire"
+
+#: i18n/validation.php:4
+msgid "is required"
+msgstr "est requis"
+
+#: i18n/validation.php:5
+#, php-format
+msgid "must be the same as '%s'"
+msgstr "Doit être identique à ' %s '"
+
+#: i18n/validation.php:6
+#, php-format
+msgid "must be different than '%s'"
+msgstr "Doit être différent de ' %s '"
+
+#: i18n/validation.php:7
+msgid "must be accepted"
+msgstr "Doit être accepté"
+
+#: i18n/validation.php:8
+msgid "must be numeric"
+msgstr "Doit être numérique"
+
+#: i18n/validation.php:9
+msgid "must be an integer (0-9)"
+msgstr "Doit être un nombre entier (0-9)"
+
+#: i18n/validation.php:10
+#, php-format
+msgid "must be at least %d long"
+msgstr "Doit être d'au moins %d long"
+
+#: i18n/validation.php:11
+#, php-format
+msgid "must be at least %s"
+msgstr "Doit être au moins %s"
+
+#: i18n/validation.php:12
+#, php-format
+msgid "must be no more than %s"
+msgstr "Ne doit pas dépasser %s"
+
+#: i18n/validation.php:13 i18n/validation.php:14
+msgid "contains invalid value"
+msgstr "Contient une valeur non valide"
+
+#: i18n/validation.php:15
+msgid "is not a valid IP address"
+msgstr "N'est pas une adresse IP valide"
+
+#: i18n/validation.php:16
+msgid "is not a valid email address"
+msgstr "n'est pas une adresse e-mail valide."
+
+#: i18n/validation.php:17
+msgid "not a URL"
+msgstr "Pas une URL"
+
+#: i18n/validation.php:18
+msgid "must be an active domain"
+msgstr "Doit être un domaine actif"
+
+#: i18n/validation.php:19
+msgid "must contain only letters a-z"
+msgstr "Doit contenir uniquement des lettres az"
+
+#: i18n/validation.php:20
+msgid "must contain only letters a-z and/or numbers 0-9"
+msgstr "Ne doit contenir que des lettres az et / ou des nombres 0 à 9"
+
+#: i18n/validation.php:21
+msgid "must contain only letters a-z, numbers 0-9, dashes and underscores"
+msgstr "Doit contenir uniquement des lettres az, chiffres 0-9, tirets et soulignement"
+
+#: i18n/validation.php:22
+msgid "contains invalid characters"
+msgstr "Contient des caractères non valides"
+
+#: i18n/validation.php:23
+msgid "is not a valid date"
+msgstr "N'est pas une date valide"
+
+#: i18n/validation.php:24
+#, php-format
+msgid "must be date with format '%s'"
+msgstr "Doit être date avec le format ' %s '"
+
+#: i18n/validation.php:25
+#, php-format
+msgid "must be date before '%s'"
+msgstr "Doit être date avant ' %s '"
+
+#: i18n/validation.php:26
+#, php-format
+msgid "must be date after '%s'"
+msgstr "Doit être date après ' %s '"
+
+#: i18n/validation.php:27
+#, php-format
+msgid "must contain %s"
+msgstr "Doit contenir %s"
+
+#: i18n/validation.php:28
+msgid "must be a boolean"
+msgstr "Doit être un boolean"
+
+#: i18n/validation.php:29
+#, php-format
+msgid "must be between %1$d and %2$d characters"
+msgstr "Doit être entre %1$d et %2$d caractères"
+
+#: i18n/validation.php:30
+msgid "must be a valid credit card number"
+msgstr "Doit être un numéro de carte de crédit valide"
+
+#: i18n/validation.php:31
+#, php-format
+msgid "must be at least %d characters long"
+msgstr "Doit être au moins %d caractères long"
+
+#: i18n/validation.php:32
+#, php-format
+msgid "must not exceed %d characters"
+msgstr "Ne doit pas dépasser %d caractères"
+
+#: i18n/validation.php:33
+#, php-format
+msgid "must be an instance of '%s'"
+msgstr "Doit être une instance de ' %s '"
+
+#: inc/Admin_Page.php:157
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: inc/Admin_Page.php:158
+msgid "Settings updated."
+msgstr "Réglages mise à jour!"
+
+#: inc/Admin_Page.php:159
+msgid "One or more error occurred."
+msgstr "Une ou plusieurs erreurs se sont produites."
+
+#: inc/CMB2/Ajax_Hooks.php:76
+msgid "Invalid CMB2 ID."
+msgstr "ID CMB2 invalide."
+
+#: inc/CMB2/Backups.php:77
+msgid "Nothing to backup."
+msgstr "Rien à Sauvegarder"
+
+#: inc/CMB2/Backups.php:83
+msgid "Invalid payload received."
+msgstr "Charge utile non valide reçue."
+
+#: inc/CMB2/CMB2.php:68
+msgid "Set field priority instead of."
+msgstr "Définissez la priorité sur le terrain au lieu de."
+
+#: inc/CMB2/Fields/Backups_Field.php:26
+msgid "Backup"
+msgstr "Sauvegarde"
+
+#: inc/CMB2/Fields/Backups_Field.php:27
+#, php-format
+msgid "Here you can copy/<a href=\"%s\" target=\"_blank\">download</a> current settings. Keep this safe as you can use it as a backup should anything go wrong."
+msgstr "Ici, vous pouvez copier / <a href=\" %s \" target=\"_blank\"> télécharger </a> les paramètres actuels. Gardez ceci en sécurité car vous pouvez l'utiliser comme une sauvegarde si quelque chose ne va pas."
+
+#: inc/CMB2/Fields/Backups_Field.php:34
+msgid "Restore a backup"
+msgstr "Restaurer une sauvegarde"
+
+#: inc/CMB2/Fields/Backups_Field.php:35
+msgid "Copy-paste your backup string here:"
+msgstr "Copiez-collez votre chaîne de sauvegarde ici:"
+
+#: inc/CMB2/Fields/Backups_Field.php:39
+msgid "Backup Now"
+msgstr "Sauvegarde à présent"
+
+#: inc/CMB2/Fields/Backups_Field.php:40
+#, php-format
+msgid "or <a href=\"%s\" class=\"cmb2-reset-backup\">reset</a> to defaults."
+msgstr "Ou <a href=\" %s \" class=\"cmb2-reset-backup\"> réinitialiser </a> aux valeurs par défaut."
+
+#: inc/CMB2/Fields/Backups_Field.php:43
+msgid "Warning! This will overwrite all existing options, please proceed with caution!"
+msgstr "ATTENTION! Cela effacera toutes les options existantes, s'il vous plaît procédez avec prudence!"
+
+#: inc/CMB2/Fields/Icon_Field.php:21 inc/Iconfonts/Iconfonts_Hooks.php:73
+msgid "Select Icon"
+msgstr "Sélectionnez une icône"
+
+#: inc/CMB2/Fields/Icon_Field.php:22 libs/cmb2/includes/CMB2_JS.php:157
+#: libs/cmb2/includes/CMB2_Types.php:392
+#: libs/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/CMB2/Fields/Link_Color_Field.php:36
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/CMB2/Fields/Link_Color_Field.php:37
+msgid "Hover color"
+msgstr "Couleur de Hover"
+
+#: inc/CMB2/Fields/Link_Color_Field.php:38
+msgid "Active color"
+msgstr "Couleur active"
+
+#: inc/CMB2/Scripts_Hooks.php:60
+msgid "Are you sure you want to do this?"
+msgstr "Êtes-vous sûrs que vous voulez faire ceci ?"
+
+#: inc/Iconfonts/Admin_Uploader.php:133
+msgid "Install new icon successfully"
+msgstr "Installer une nouvelle icône avec succès"
+
+#: inc/Iconfonts/Admin_Uploader.php:152
+msgid "Hey, are you human?"
+msgstr "Hé, êtes-vous humain?"
+
+#: inc/Iconfonts/Admin_Uploader.php:156
+msgid "You missing icon name to delete."
+msgstr "Vous avez manqué le nom de l'icône à supprimer."
+
+#: inc/Iconfonts/Admin_Uploader.php:174
+msgid "An error has occurred. please try again."
+msgstr "Une erreur est survenue. Veuillez réessayer."
+
+#: inc/Iconfonts/Admin_Uploader.php:185
+#, php-format
+msgid "Icon pack \"%s\" has been deleted successfully"
+msgstr "Le pack d'icônes \\ \" %s \" a été supprimé avec succès"
+
+#: inc/Iconfonts/Admin_Uploader.php:214
+msgid "Before you can upload your icon, you will need to fix the following error:"
+msgstr "Avant de pouvoir télécharger votre icône, vous devrez résoudre l'erreur suivante:"
+
+#: inc/Iconfonts/Extractor/Elusive_Extractor.php:53
+msgid "Elusive"
+msgstr "|Insaisissable|"
+
+#: inc/Iconfonts/Extractor/Extractor_Abstract.php:105
+msgid "Invalid Directory Structure."
+msgstr "Structure d'annuaire invalide."
+
+#: inc/Iconfonts/Extractor/Extractor_Abstract.php:109
+msgid "The metadata file too large, maximum is less than 2MB"
+msgstr "Le fichier de métadonnées trop important, le maximum est inférieur à 2 Mo"
+
+#: inc/Iconfonts/Extractor/Extractor_Abstract.php:120
+msgid "Invalid icon pack data."
+msgstr "Données de pack d'icônes non valides."
+
+#: inc/Iconfonts/Extractor/Fontawesome_Extractor.php:53
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/Iconfonts/Iconfonts_Hooks.php:71
+msgid "Icon Picker"
+msgstr "Icon Picker"
+
+#: inc/Iconfonts/Iconfonts_Hooks.php:72
+msgid "All"
+msgstr "Tout"
+
+#: inc/Iconfonts/Iconfonts_Hooks.php:81 inc/Iconfonts/Iconfonts_Hooks.php:82
+msgid "Font Icons"
+msgstr "Icônes police"
+
+#: inc/Iconfonts/Installer.php:78
+msgid "Not support"
+msgstr "Pas de support"
+
+#: inc/Iconfonts/views/icon-box.php:19
+msgid "A\tctions"
+msgstr "Ations"
+
+#: inc/Iconfonts/views/icon-box.php:20
+msgid "Actions"
+msgstr "actes"
+
+#: inc/Iconfonts/views/icon-box.php:26 inc/Iconfonts/views/icon-box.php:27
+msgid "Search icons..."
+msgstr "Rechercher des icônes ..."
+
+#: inc/Iconfonts/views/icon-box.php:53
+msgid "Update Icon"
+msgstr "Icône de mise à jour"
+
+#: inc/Iconfonts/views/icon-box.php:54
+msgid "Delete"
+msgstr "Effacer"
+
+#: inc/Iconfonts/views/main.php:17
+msgid "Font Icon Manager"
+msgstr "Font Icon Manager"
+
+#: inc/Iconfonts/views/main.php:18
+msgid "Upload Icon Pack"
+msgstr "Pack d'icônes de téléchargement"
+
+#: inc/Iconfonts/views/main.php:33
+msgid "System Icons"
+msgstr "Icônes du système"
+
+#: inc/Iconfonts/views/main.php:34
+msgid "Uploaded"
+msgstr "Téléchargé"
+
+#: inc/Iconfonts/views/main.php:38
+msgid "Search Icon Pack"
+msgstr "Pack d'icônes de recherche"
+
+#: inc/Iconfonts/views/main.php:49
+msgid "No icon pack found."
+msgstr "Aucun pack d'icônes trouvé."
+
+#: inc/Iconfonts/views/upload-form.php:16
+msgid "Dismiss the upload form"
+msgstr "Rejeter le formulaire de téléchargement"
+
+#: inc/Iconfonts/views/upload-form.php:16
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: inc/Iconfonts/views/upload-form.php:20
+msgid "Select Your Files"
+msgstr "Sélectionnez vos fichiers"
+
+#: inc/Iconfonts/views/upload-form.php:21
+msgid "Let’s get started importing your custom icon pack"
+msgstr "Commençons à importer votre pack d'icônes personnalisé"
+
+#: inc/Iconfonts/views/upload-form.php:22
+msgid "To get started, simply upload a zip file downloaded from <a href=\"http://fontello.com\" target=\"_blank\">Fontello</a> or <a href=\"https://icomoon.io/app\" target=\"_blank\">IcoMoon App</a>."
+msgstr "Pour commencer, téléchargez simplement un fichier zip téléchargé depuis <a href=\"http://fontello.com\" target=\"_blank\"> Fontello </a> ou <a href = \\ \"https: // Icomoon.io/app \\ \"target = \" _ blank \\ \"> application IcoMoon </a>."
+
+#: inc/Iconfonts/views/upload-form.php:29
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: inc/Post_Type.php:82
+#, php-format
+msgid "`%s` post type has never been registered before."
+msgstr "Le type de message ` %s s` n'a jamais été enregistré avant."
+
+#: inc/Post_Type.php:144 inc/Post_Type.php:145 inc/Taxonomy.php:226
+#, php-format
+msgid "Add New %s"
+msgstr "Ajouter une région %s"
+
+#: inc/Post_Type.php:146 inc/Taxonomy.php:223
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/Post_Type.php:147
+#, php-format
+msgid "New %s"
+msgstr "Nouveau %s "
+
+#: inc/Post_Type.php:148 inc/Taxonomy.php:222
+#, php-format
+msgid "All %s"
+msgstr "Tout %s"
+
+#: inc/Post_Type.php:149 inc/Taxonomy.php:224
+#, php-format
+msgid "View %s"
+msgstr "Voir %s"
+
+#: inc/Post_Type.php:150 inc/Taxonomy.php:221
+#, php-format
+msgid "Search %s"
+msgstr "Rechercher %s"
+
+#: inc/Post_Type.php:151 inc/Taxonomy.php:229
+#, php-format
+msgid "No %s"
+msgstr "Aucun %s"
+
+#: inc/Post_Type.php:152
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Pas de %s trouvé dans la corbeille"
+
+#: inc/Post_Type.php:153 inc/Taxonomy.php:233
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s:"
+
+#: inc/Post_Type.php:155
+#, php-format
+msgid "Insert into %s"
+msgstr "Insérer dans %s"
+
+#: inc/Post_Type.php:156
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Chargé à cette %s"
+
+#: inc/Post_Type.php:157
+#, php-format
+msgid "%s list"
+msgstr "Liste %s"
+
+#: inc/Post_Type.php:158
+#, php-format
+msgid "%s list navigation"
+msgstr "Navigation en %s list"
+
+#: inc/Post_Type.php:159
+#, php-format
+msgid "Filter %s list"
+msgstr "Filtrer %s liste"
+
+#: inc/Post_Type.php:196
+msgid "Custom field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: inc/Post_Type.php:197
+msgid "Custom field deleted."
+msgstr "Champ personnalisé supprimé."
+
+#: inc/Post_Type.php:198 inc/Post_Type.php:212
+#, php-format
+msgid "%1$s updated."
+msgstr "%s mis à jour."
+
+#. translators: %s: date and time of the revision
+#: inc/Post_Type.php:200
+#, php-format
+msgid "%1$s restored to revision from %2$s"
+msgstr "%s restauration à la révision de %s"
+
+#: inc/Post_Type.php:201
+#, php-format
+msgid "%1$s saved."
+msgstr "%s sauvegardé."
+
+#: inc/Post_Type.php:205
+#, php-format
+msgid "%1$s updated. <a href=\"%2$s\">View %1$s</a>"
+msgstr "%1$s mis à jour. <a href=\" %2$s \"> Affichage %1$s </a>"
+
+#: inc/Post_Type.php:206
+#, php-format
+msgid "%1$s published. <a href=\"%2$s\">View %1$s</a>"
+msgstr "%1$s publié. <a href=\" %2$s \"> Affichage %1$s </a>"
+
+#: inc/Post_Type.php:207
+#, php-format
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr "%1$s soumis. <a target=\"_blank\" href=\" %2$s \"> Aperçu %1$s </a>"
+
+#. translators: Publish box date format, see http://php.net/date.
+#: inc/Post_Type.php:209
+#, php-format
+msgid "%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s\">Preview %1$s</a>"
+msgstr "%1$s prévu pour: <strong> %2$s </ strong>. <a target=\"_blank\" href=\" %3$s \"> Aperçu %1$s </a>"
+
+#: inc/Post_Type.php:209 inc/Post_Type.php:216
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ G: i"
+
+#: inc/Post_Type.php:210
+#, php-format
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr "%1$s projet mis à jour. <a target=\"_blank\" href=\" %2$s \"> Aperçu %1$s </a>"
+
+#: inc/Post_Type.php:213
+#, php-format
+msgid "%1$s published."
+msgstr "%1$s publié."
+
+#: inc/Post_Type.php:214
+#, php-format
+msgid "%1$s submitted."
+msgstr "%1$s soumis."
+
+#. translators: Publish box date format, see http://php.net/date.
+#: inc/Post_Type.php:216
+#, php-format
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr "%1$s prévu pour: <strong> %2$s </ strong>."
+
+#: inc/Post_Type.php:217
+#, php-format
+msgid "%1$s draft updated."
+msgstr "%1$s projet mis à jour."
+
+#: inc/Post_Type.php:235
+#, php-format
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] "%1$s %2$s mis à jour."
+msgstr[1] "%1$s %3$s mis à jour."
+
+#: inc/Post_Type.php:236
+#, php-format
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] "%1$s %2$s n'est pas mis à jour, quelqu'un l'édite."
+msgstr[1] "%1$s %3$s n'est pas mis à jour, quelqu'un l'édite."
+
+#: inc/Post_Type.php:237
+#, php-format
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] "%1$s %2$s définitivement supprimé."
+msgstr[1] "%1$s %3$s définitivement supprimé."
+
+#: inc/Post_Type.php:238
+#, php-format
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] "%1$s %2$s déplacé vers la corbeille."
+msgstr[1] "%1$s %3$s déplacé vers la corbeille."
+
+#: inc/Post_Type.php:239
+#, php-format
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] "%1$s %2$s restauré à partir de la corbeille."
+msgstr[1] "%1$s %3$s restauré à partir de la corbeille."
+
+#. translators: %s: singular
+#: inc/Post_Type.php:254
+#, php-format
+msgid "%s Title"
+msgstr "%1$s Titre"
+
+#: inc/Support/Filesystem.php:43
+msgid "Incompatible archive"
+msgstr "Archive incompatible"
+
+#: inc/Taxonomy.php:100
+#, php-format
+msgid "`%s` taxonomy has never been registered before."
+msgstr "La taxonomie ` %s s` n'a jamais été enregistrée auparavant."
+
+#: inc/Taxonomy.php:134
+#, php-format
+msgid "%s base"
+msgstr "%s base"
+
+#: inc/Taxonomy.php:225
+#, php-format
+msgid "Update %s"
+msgstr "Mettre à jour %s"
+
+#: inc/Taxonomy.php:227
+#, php-format
+msgid "New %s Name"
+msgstr "Nouveau %s Nom"
+
+#: inc/Taxonomy.php:228
+#, php-format
+msgid "No %s found."
+msgstr "Aucun %s trouvé"
+
+#: inc/Taxonomy.php:232
+#, php-format
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#: inc/Taxonomy.php:236
+#, php-format
+msgid "Popular %s"
+msgstr "Popular %s"
+
+#: inc/Taxonomy.php:237
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Séparez %s avec des virgules"
+
+#: inc/Taxonomy.php:238
+#, php-format
+msgid "Add or remove %s"
+msgstr "Ajouter ou supprimer %s"
+
+#: inc/Taxonomy.php:239
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Choisissez parmi les %s les plus utilisés"
+
+#: inc/Webfonts/Webfonts.php:154
+msgid "Web Safe Fonts"
+msgstr "Polices Web sécurisées"
+
+#: inc/Webfonts/Webfonts.php:158
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: libs/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr "Champ rendu personnalisé"
+
+#: libs/cmb2/example-functions.php:650
+msgid "Theme Options Metabox"
+msgstr "Options de thème Metabox"
+
+#: libs/cmb2/example-functions.php:665
+msgid "Site Background Color"
+msgstr "Couleur de fond du site"
+
+#: libs/cmb2/example-functions.php:701
+msgid "REST Test Box"
+msgstr "Boîte de test REST"
+
+#: libs/cmb2/example-functions.php:710
+msgid "REST Test Text"
+msgstr "Texte de test REST"
+
+#: libs/cmb2/example-functions.php:711
+msgid "Will show in the REST API for this box and for pages."
+msgstr "Affiche dans l'API REST pour cette case et pour les pages."
+
+#: libs/cmb2/example-functions.php:717
+msgid "REST Editable Test Text"
+msgstr "Texte de test modifiable REST"
+
+#: libs/cmb2/example-functions.php:718
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr "Affiche dans les contextes REST API \\ \"editable \" uniquement (les requêtes `POST`)."
+
+#: libs/cmb2/includes/CMB2.php:127
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr "configuration Metabox est nécessaire d'avoir un paramètre d'ID "
+
+#: libs/cmb2/includes/CMB2.php:470
+msgid "Click to toggle"
+msgstr "Cliquer ici pour basculer "
+
+#: libs/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr "Veuillez réessayer "
+
+#: libs/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr "Retirer le contenu intégré "
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: libs/cmb2/includes/CMB2_Ajax.php:181
+#: libs/cmb2/includes/helper-functions.php:99
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr "Aucun résultat obtenu pour %1$s . Voir plus d'informations à %2$s ."
+
+#: libs/cmb2/includes/CMB2_Base.php:389
+#, php-format
+msgid "The \"%s\" field parameter has been deprecated in favor of the \"%s\" parameter."
+msgstr "Le paramètre de champ \\ \" %s \" a été obsolète en faveur du paramètre \\ \" %s \"."
+
+#: libs/cmb2/includes/CMB2_Base.php:393
+#, php-format
+msgid "Using the \"%s\" field parameter as a callback has been deprecated in favor of the \"%s\" parameter."
+msgstr "L'utilisation du paramètre de champ \\ \" %s \" comme rappel a été obsolète en faveur du paramètre \\ \" %s \"."
+
+#: libs/cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr "%1$s été appelé avec un paramètre <strong> déconseillé </ strong> depuis la version %2$s ! %3$s"
+
+#: libs/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "%1$s été appelé avec un paramètre <strong> déconseillé </ strong> puisque la version %2$s sans autre option disponible."
+
+#: libs/cmb2/includes/CMB2_Base.php:459
+#: libs/cmb2/includes/types/CMB2_Type_Base.php:138
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr "Propriété %1$s invalide: %2$s"
+
+#: libs/cmb2/includes/CMB2_Base.php:473
+#: libs/cmb2/includes/types/CMB2_Type_Base.php:123
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr "Méthode %1$s invalide: %2$s"
+
+#: libs/cmb2/includes/CMB2_Field.php:1118
+msgid "Add Group"
+msgstr "Ajouter Groupe "
+
+#: libs/cmb2/includes/CMB2_Field.php:1119
+msgid "Remove Group"
+msgstr "Supprimer Groupe "
+
+#: libs/cmb2/includes/CMB2_Field.php:1141
+#: libs/cmb2/includes/CMB2_Field.php:1145
+msgid "None"
+msgstr "Aucun"
+
+#: libs/cmb2/includes/CMB2_Field.php:1206
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Désolé, ce champ n'a pas de cmb_id spécifié."
+
+#: libs/cmb2/includes/CMB2_Field_Display.php:409
+#: libs/cmb2/includes/CMB2_JS.php:158
+#: libs/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr "Fichier : "
+
+#: libs/cmb2/includes/CMB2_JS.php:99 libs/cmb2/includes/CMB2_JS.php:138
+msgid "Clear"
+msgstr "Nettoyer"
+
+#: libs/cmb2/includes/CMB2_JS.php:100
+msgid "Default"
+msgstr "Défaut"
+
+#: libs/cmb2/includes/CMB2_JS.php:101
+msgid "Select Color"
+msgstr "Choisissez la couleur"
+
+#: libs/cmb2/includes/CMB2_JS.php:102
+msgid "Current Color"
+msgstr "Couleur actuelle "
+
+#: libs/cmb2/includes/CMB2_JS.php:128
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy "
+
+#: libs/cmb2/includes/CMB2_JS.php:129
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Dimanche, Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi"
+
+#: libs/cmb2/includes/CMB2_JS.php:130
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Su, Mo, Tu, Nous, Th, Fr, Sa "
+
+#: libs/cmb2/includes/CMB2_JS.php:131
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Dim, Lun., Mar., Mer., Jeu., Ven., Sam. "
+
+#: libs/cmb2/includes/CMB2_JS.php:132
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "Janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre "
+
+#: libs/cmb2/includes/CMB2_JS.php:133
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan, Fév, Mar, Avr, Mai, Jun, Juil, Aout, Sep, Oct, Nov, Déc."
+
+#: libs/cmb2/includes/CMB2_JS.php:134
+msgid "Next"
+msgstr "Suivant "
+
+#: libs/cmb2/includes/CMB2_JS.php:135
+msgid "Prev"
+msgstr "Précédent "
+
+#: libs/cmb2/includes/CMB2_JS.php:136
+msgid "Today"
+msgstr "Aujourd'hui "
+
+#: libs/cmb2/includes/CMB2_JS.php:137 libs/cmb2/includes/CMB2_JS.php:147
+msgid "Done"
+msgstr "Terminé "
+
+#: libs/cmb2/includes/CMB2_JS.php:141
+msgid "Choose Time"
+msgstr "Choisissez Temps "
+
+#: libs/cmb2/includes/CMB2_JS.php:142
+msgid "Time"
+msgstr "Temps "
+
+#: libs/cmb2/includes/CMB2_JS.php:143
+msgid "Hour"
+msgstr "Heure "
+
+#: libs/cmb2/includes/CMB2_JS.php:144
+msgid "Minute"
+msgstr "Minute "
+
+#: libs/cmb2/includes/CMB2_JS.php:145
+msgid "Second"
+msgstr "Seconde "
+
+#: libs/cmb2/includes/CMB2_JS.php:146
+msgid "Now"
+msgstr "Maintenant "
+
+#: libs/cmb2/includes/CMB2_JS.php:148
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh: mm TT "
+
+#: libs/cmb2/includes/CMB2_JS.php:154
+msgid "Use this file"
+msgstr "Utilisez ce fichier "
+
+#: libs/cmb2/includes/CMB2_JS.php:155
+msgid "Use these files"
+msgstr "Utilisez ces fichiers"
+
+#: libs/cmb2/includes/CMB2_JS.php:156
+#: libs/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr "Supprimer l'image"
+
+#: libs/cmb2/includes/CMB2_JS.php:159
+#: libs/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr "Télécharger"
+
+#: libs/cmb2/includes/CMB2_JS.php:160
+msgid "Select / Deselect All"
+msgstr "Sélectionner / Désélectionner "
+
+#: libs/cmb2/includes/CMB2_Types.php:220
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr "Les classes de type de champ CMB2 personnalisées doivent étendre CMB2_Type_Base."
+
+#: libs/cmb2/includes/CMB2_Types.php:329
+msgid "Add Row"
+msgstr "Ajouter une Ligne"
+
+#: libs/cmb2/includes/CMB2_hookup.php:148
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr "Term Metadata est une fonctionnalité WordPress 4.4+. Mettez à niveau votre installation WordPress."
+
+#: libs/cmb2/includes/CMB2_hookup.php:152
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr "La configuration des metaboxes à terme nécessite un paramètre \\ \"taxonomies \"."
+
+#: libs/cmb2/includes/CMB2_hookup.php:389
+#, php-format
+msgid "Toggle panel: %s"
+msgstr "Panneau à bascule: %s"
+
+#: libs/cmb2/includes/helper-functions.php:287
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+msgid "This box does not have read permissions."
+msgstr "Cette zone n'a pas de droits de lecture."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+msgid "This box does not have write permissions."
+msgstr "Cette boîte ne possède pas d'autorisations d'écriture."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr "Aucune case trouvée par cet identifiant. Une boîte doit être enregistrée avec le paramètre \\ \"show_in_rest \" configuré."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+msgid "A human-readable description of the object."
+msgstr "Une description lisible par l'homme de l'objet."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+msgid "The id for the object."
+msgstr "L'id pour l'objet."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+msgid "The title for the object."
+msgstr "Le titre de l'objet."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+msgid "Includes the registered fields for the box in the response."
+msgstr "Comprend les champs enregistrés pour la boîte dans la réponse."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr "Comprend les attributs entièrement rendus, 'form_open', 'form_close', ainsi que les poignées de script 'js_dependencies' enquelles, et les poignées de styles de styles 'css_dependencies'."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr "Aucune case trouvée."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr "Inclut l'objet boîte dans lequel les champs sont enregistrés dans la réponse."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr "Lorsque l'argument '_rendered' est passé, les attributs du champ rendu seront retournés entièrement. Par défaut, les noms des rappels de rappel pour les attributs rendus seront renvoyés."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr "Pour afficher ou modifier la valeur du champ, les arguments 'object_id' et 'object_type' sont requis."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr "La valeur de champ CMB2 ne peut pas être mise à jour sans le paramètre de valeur spécifié."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr "La valeur de champ CMB2 ne peut pas être modifiée sans les paramètres object_id et object_type spécifiés."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+msgid "No field found by that id."
+msgstr "Aucun champ trouvé par cet identifiant."
+
+#: libs/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+#, php-format
+msgid "Value Error for %s"
+msgstr "Valeur Erreur pour %s"
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr "La méthode register_routes () doit être annulée"
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:34
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:44
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:54
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:64
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:74
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:84
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:94
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:104
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:114
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:124
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:134
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:145
+#, php-format
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr "La méthode ' %s ' n'est pas implémentée. Doit être surchargé dans la sous-classe."
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:248
+msgid "Current page of the collection."
+msgstr "Page actuelle de la collection."
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:256
+msgid "Maximum number of items to be returned in result set."
+msgstr "Nombre maximal d'éléments à renvoyer dans le jeu de résultats."
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:265
+msgid "Limit results to those matching a string."
+msgstr "Limiter les résultats à ceux qui correspondent à une chaîne."
+
+#: libs/cmb2/includes/shim/WP_REST_Controller.php:283
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr "Portée en vertu de laquelle la demande est faite; Détermine les champs présents en réponse."
+
+#: libs/cmb2/includes/types/CMB2_Type_File.php:40
+msgid "Add or Upload File"
+msgstr "Ajouter ou Télécharger Fichier"
+
+#: libs/cmb2/includes/types/CMB2_Type_File_List.php:39
+msgid "Add or Upload Files"
+msgstr "Ajouter ou télécharger des fichiers "
+
+#: libs/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: libs/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr "Aucun terme "
